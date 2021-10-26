@@ -1,1 +1,1 @@
-Merhaba bu dosyadaki ilk değişikliktir.
+"Merhaba bu dosyadaki ilk değişikliktir."
